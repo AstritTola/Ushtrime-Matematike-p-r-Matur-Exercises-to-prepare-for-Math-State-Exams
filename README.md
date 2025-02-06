@@ -30,7 +30,7 @@ Additionally, the book features **mock tests** to help students assess their und
 
 
 ## 📬 Contact  
-For inquiries or additional information, please contact the authors or check for official resources.  
+For inquiries or additional information, please contact the authors.  
 
 **Happy Studying! 🎓**  
 📘 *- The Authors*  
